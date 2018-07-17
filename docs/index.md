@@ -9,7 +9,7 @@ Message Verification and Signing is implemented as a separate module and you mus
 For node projects:
 
 ```bash
-git clone https://github.com/BTXinsight/bitcore-message-btx.git
+git clone https://github.com/LIMXTEC/bitcore-message-btx.git
 cd bitcore-message-btx
 npm install --save
 ```
