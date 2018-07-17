@@ -10,7 +10,7 @@ See [the main bitcore repo](https://github.com/bitpay/bitcore) for more informat
 ## Getting Started
 
 ```sh
-git clone https://github.com/BTXinsight/bitcore-message-btx.git
+git clone https://github.com/LIMXTEC/bitcore-message-btx.git
 cd bitcore-message-btx
 npm install --save
 ```
